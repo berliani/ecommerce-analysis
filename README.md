@@ -5,10 +5,10 @@ Proyek analisis data akhir menggunakan dataset **Olist Brazilian E-Commerce** da
 ## 📁 Struktur Direktori
 
 ```
-submission/
+
 ├── dashboard/
-│   ├── main_data.csv       # Data utama hasil cleaning & join (di-generate oleh notebook)
-│   └── dashboard.py        # Aplikasi Streamlit
+│   ├── main_data.csv       
+│   └── dashboard.py        
 ├── data/
 │   ├── rfm_data.csv        # Hasil RFM analysis
 │   ├── state_analysis.csv  # Agregasi per state
@@ -17,7 +17,6 @@ submission/
 ├── notebook.ipynb          # Notebook analisis utama (Colab)
 ├── README.md
 ├── requirements.txt
-└── url.txt
 ```
 
 ## ❓ Pertanyaan Bisnis

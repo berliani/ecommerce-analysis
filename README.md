@@ -27,7 +27,7 @@ Proyek analisis data akhir menggunakan dataset **Olist Brazilian E-Commerce** da
 ### Pertanyaan 2 (SMART)
 > **"Bagaimana distribusi nilai transaksi (revenue) berdasarkan negara bagian (state) di Brasil selama tahun 2017–2018, dan state mana yang memiliki potensi pertumbuhan tertinggi berdasarkan jumlah order dan rata-rata nilai pembelian per pelanggan?"**
 
-## 🚀 Cara Menjalankan
+##  Cara Menjalankan
 
 ### 1. Jalankan Notebook di Google Colab
 1. Buka `notebook.ipynb` di Google Colab
